@@ -100,8 +100,11 @@
     cursor: pointer;
   }
   
+  .page-item:hover {
+    background-color: yellow;
+  }
   .page-item.active {
-    background-color: #e1e1e1;
+    background-color: red;
   }
 
 
