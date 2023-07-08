@@ -17,7 +17,7 @@ const Home = () => {
                 Here You Can Find The Task Which Wass Given By You To Evaluate My Skill Set Much More Efficiently.
               </h2>
              
-              <div className="mt-4">
+              <div className="my-4">
                 <NavLink to="/task" className="btnA">
                   Check It Now
                 </NavLink>

@@ -18,7 +18,7 @@ const About = () => {
                             <h2 className="my-3">
                                 I am front-end web developer
                             </h2>
-                            <div className="mt-3">
+                            <div className="my-3">
                                 <NavLink to="/contact" className="btnA">
                                     Contact Me
                                 </NavLink>

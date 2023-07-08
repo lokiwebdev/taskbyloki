@@ -95,6 +95,7 @@
 
 .main {
   min-height: 81vh;
+  padding: 30px;
   background: linear-gradient(to right, yellow, #00ff6c);
   display: flex;
   justify-content: center;
